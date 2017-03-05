@@ -19,10 +19,10 @@ public class MissingNumber {
                 arr[i] = sc.nextInt();
             }
             //numbers he pickuped form the floor
-//            int x = sc.nextInt();
-
-//            System.out.println(search(arr, n, x));
-//            t--;
+            int x = sc.nextInt();
+            System.out.println(search(arr, n, x));
+            //checked by amitabh
+            t--;
         }
     }
 
